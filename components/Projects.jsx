@@ -18,27 +18,27 @@ const Projects = () => {
           <ProjectItem
             title='Netflix'
             backgroundImg={netflix}
-            projectUrl='/property'
+            projectUrl='/netflix'
             tech='React JS'
           />
           <ProjectItem
             title='Nft - Internship'
             backgroundImg={Nftinternship}
-            projectUrl='/crypto'
+            projectUrl='/nftinternship'
             tech='React JS'
 
           />
           <ProjectItem
             title='G-mail'
             backgroundImg={netflix}
-            projectUrl='/netflix'
+            projectUrl='/g-mail'
             tech='React JS'
 
           />
           <ProjectItem
             title='Netflix'
             backgroundImg={netflix}
-            projectUrl='/twitch'
+            projectUrl='/netflix'
             tech='Next JS'
 
           />
