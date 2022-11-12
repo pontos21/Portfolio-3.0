@@ -1,14 +1,13 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-
 import Nftinternship from '../public/assets/projects/nftinternship.png'
-import netflix from '../public/assets/projects/netflix.png'
+import netflixImg from '../public/assets/projects/netflixImg.png'
 import ProjectItem from './ProjectItem';
 
 const Projects = () => {
   return (
-    <div id='projects' className='w-full'>
+    <div id='projects' className='w-full scroll-smooth'>
       <div className='max-w-[1240px] mx-auto px-2 py-16'>
         <p className='text-xl tracking-widest uppercase text-[#5651e5]'>
           Projects
@@ -17,28 +16,28 @@ const Projects = () => {
         <div className='grid md:grid-cols-2 gap-8'>
           <ProjectItem
             title='Netflix'
-            backgroundImg={netflix}
-            projectUrl='/netflix'
+            backgroundImg={netflixImg}
+            projectUrl='/netflixClone'
             tech='React JS'
           />
           <ProjectItem
             title='Nft - Internship'
             backgroundImg={Nftinternship}
-            projectUrl='/nftinternship'
+            projectUrl='/nft'
             tech='React JS'
 
           />
           <ProjectItem
             title='G-mail'
-            backgroundImg={netflix}
-            projectUrl='/g-mail'
+            backgroundImg={netflixImg}
+            projectUrl='/netflixClone'
             tech='React JS'
 
           />
           <ProjectItem
             title='Netflix'
-            backgroundImg={netflix}
-            projectUrl='/netflix'
+            backgroundImg={netflixImg}
+            projectUrl='/netflixClone'
             tech='Next JS'
 
           />

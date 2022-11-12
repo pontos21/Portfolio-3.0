@@ -1,6 +1,5 @@
 import React from 'react'
 import Image from 'next/image'
-import Netflix from '../public/assets/projects/netflix.png'
 import Link from 'next/link'
 
 function ProjectItem({title, backgroundImg, projectUrl}) {
