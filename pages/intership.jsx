@@ -17,7 +17,7 @@ function internship() {
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2 '>
-          <h2 className='py-2'>Netflix Clone</h2>
+          <h2 className='py-2'>Nft - Internship</h2>
           <h3>React JS </h3>
         </div>
       </div>
@@ -29,8 +29,8 @@ function internship() {
           <p>
             This app was built using React JS and has massive functionality. The Nft-Intership website was the final project in my course.
           </p>
-          <button className='px-8 py-2 mt-4 mr-8'>Demo</button>
-          <button className='px-8 py-2 mt-4'>Code</button>
+          <button className='px-8 py-2 mt-4 mr-8'><a href="https://paul-serafim-internship.vercel.app/" target="_blank">Demo</a></button>
+          <button className='px-8 py-2 mt-4'><a href="https://github.com/pontos21/paul-serafim-internship.git" target="_blank">Code</a></button>
         </div>
         <div className='col span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
           <div className='p-2'>
@@ -40,16 +40,10 @@ function internship() {
                 <RiRadioButtonFill className='pr-1' /> React
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> TypeScript
+                <RiRadioButtonFill className='pr-1' /> JavaScript
               </p>
               <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Tailwind
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Firebase
-              </p>
-              <p className='text-gray-600 py-2 flex items-center'>
-                <RiRadioButtonFill className='pr-1' /> Tmdb API
+                <RiRadioButtonFill className='pr-1' /> Github
               </p>
             </div>
           </div>

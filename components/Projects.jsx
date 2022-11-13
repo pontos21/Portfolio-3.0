@@ -23,7 +23,7 @@ const Projects = () => {
           <ProjectItem
             title='Nft - Internship'
             backgroundImg={Nftinternship}
-            projectUrl='/nft'
+            projectUrl='intership'
             tech='React JS'
 
           />
