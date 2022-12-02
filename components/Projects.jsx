@@ -10,7 +10,7 @@ import AirbnbImg from '../public/assets/projects/AirbnbImg.png'
 const Projects = () => {
   return (
     <div id='projects' className='w-full scroll-smooth'>
-      <div className='max-w-[1240px] mx-auto'>
+      <div className='max-w-[1240px] mx-auto px-2 py-16'>
         <p className='text-xl tracking-widest uppercase text-[#5651e5]'>
           Projects
         </p>
