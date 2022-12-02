@@ -1,8 +1,8 @@
 import Image from "next/image";
 import React from "react";
-import Nftinternship from "../public/assets/projects/Nftinternship.png";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
+import teslaclone from '../public/assets/projects/teslaclone.png'
 
 function internship() {
   return (
@@ -13,24 +13,24 @@ function internship() {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={Nftinternship}
+          src={teslaclone}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2 '>
-          <h2 className='py-2'>Nft - Internship</h2>
+          <h2 className='py-2'>Tesla</h2>
           <h3>React JS </h3>
         </div>
       </div>
 
       <div className='max-w-[1240px] mx-auto p-2 grid md:grid-cols-5 gap-8 pt-8'>
         <div className='col-span-4'>
-          <p>Project</p>
-          <p>Overview</p>
-          <p>
-            This app was built using React JS and has massive functionality. The Nft-Intership website was the final project in my course.
+          <p className="font-semibold">Project</p>
+          <p className="italic underline">Overview:</p>
+          <p className="mt-5">
+            This app was built using React JS and takes inspiration from the offical Tesla website. This build demonstrates a range of flex-box layouts and styling components
           </p>
-          <button className='px-8 py-2 mt-4 mr-8'><a href="https://paul-serafim-internship.vercel.app/" target="_blank">Demo</a></button>
-          <button className='px-8 py-2 mt-4'><a href="https://github.com/pontos21/paul-serafim-internship.git" target="_blank">Code</a></button>
+          <button className='px-8 py-2 mt-4 mr-8'><a href="https://tesla-clone-six-swart.vercel.app/" target="_blank">Demo</a></button>
+          <button className='px-8 py-2 mt-4'><a href="https://github.com/pontos21/Tesla-Clone" target="_blank">Code</a></button>
         </div>
         <div className='col span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
           <div className='p-2'>
