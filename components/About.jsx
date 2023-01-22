@@ -8,10 +8,10 @@ function About() {
                 <p className='uppercase text-xl tracking-widest text-[#5651e5]'>About</p>
                 <h2 className='py-4'>Who I Am</h2>
                 <p className='py-2 text-gray-600'>
-                    I have always had an undersirable thirst for technology and working with computers. In 2021 i started working with HTML & CSS to make some minor edits on my first blog i was operating at the time. What i thought was just afew small edits eventuated into a love for programming.
+                I have had a longstanding interest in technology and computer systems. In 2021, I began utilizing HTML and CSS to make modifications to my initial blog, which sparked my interest in programming. 
                 </p>
                 <p className='py-2 text-gray-600'>
-                    Fascinated with how intricate programming can be i was quickly drawn to learn more and expand my knowledge. I started learning JavaScript and was even more enthused with making websites interactive. I am now spending my time building projects with React Js, Firebase and learning new technologies. 
+                I became captivated by the complexity and potential of programming, leading me to further expand my knowledge by learning JavaScript. This further fueled my passion for creating interactive websites. Currently, I am dedicating my time to developing projects using React JS, Firebase, and exploring new technologies to enhance my skillset.
                 </p>
                 <p className='py-2 text-gray-600'>
                     During my off time, i belong to a Greek Pontian Dance Group where we learn and dance immersive war time dances in which we perform all over Melbourne and Australia for events and private functions. I also love my fitness and you will find me spending my free time in the gym.
@@ -19,7 +19,7 @@ function About() {
                 <p className='py-2 text-gray-600 underline cursor-pointer'><a href="#projects">Check out some of my latest projects</a></p>
             </div>
             <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-                <img className='rounded-xl' src="https://images.unsplash.com/photo-1603302576837-37561b2e2302?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=868&q=80" alt="" />
+                <img className='rounded-xl' src="https://i.ibb.co/g7d7m2d/future-goal.jpg" alt="" />
             </div>
         </div>
     </div>
