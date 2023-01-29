@@ -9,8 +9,8 @@ function Certificate() {
         </p>
         <h2 className='py-4'>Certificate of Completion</h2>
         </div>
-        <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-            <img className='rounded-xl max-w-[900px] px-5 mx-auto' src="https://i.ibb.co/nwdm1m8/certificate-of-completion.png" alt="" />
+        <div className='w-full h-auto m-auto '>
+            <img className='max-w-[900px] px-5 ml-[140px] shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300' src="https://i.ibb.co/nwdm1m8/certificate-of-completion.png" alt="" />
         </div>
     </div>
   )
