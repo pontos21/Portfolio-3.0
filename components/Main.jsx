@@ -38,7 +38,7 @@ function Main() {
                     Hey, Im <span className='text-[#5651e5]'>Paul 👋</span> 
                 </h1>
                 <div className='animation'>
-                    <img className='rounded-full h-32 w-32 mx-auto object-cover transform:scale(0)' src="https://i.ibb.co/XyHQ7F0/IMG-1539-1.jpg" alt="" />
+                    <img className='rounded-full h-32 w-32 mx-auto object-cover transform:scale(0)' src="https://i.ibb.co/xY9PfmX/summer-drink1.jpg" alt="" />
                 </div>
                 <h1 className='text-5xl lg:text-6xl font-semibold px-10'>
                     <span className='mr-3'>{text}</span>
