@@ -4,6 +4,7 @@ import { AiOutlineMail } from 'react-icons/ai'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import { FaGithub, FaLinkedinIn } from 'react-icons/fa'
 import { motion } from 'framer-motion'
+import Image from 'next/image';
 
 function Main() {
     const [text, count] = useTypewriter({
@@ -38,7 +39,7 @@ function Main() {
                     Hey, Im <span className='text-[#5651e5]'>Paul 👋</span> 
                 </h1>
                 <div className='animation'>
-                    <img className='rounded-full h-32 w-32 mx-auto object-cover transform:scale(0)' src="https://i.ibb.co/xY9PfmX/summer-drink1.jpg" alt="" />
+                    <Image className='rounded-full h-32 w-32 mx-auto object-cover transform:scale(0)' src="https://i.ibb.co/xY9PfmX/summer-drink1.jpg" alt="" />
                 </div>
                 <h1 className='text-5xl lg:text-6xl font-semibold px-10'>
                     <span className='mr-3'>{text}</span>
