@@ -1,7 +1,7 @@
 import Image from 'next/image';
 import Link from 'next/link';
 import React from 'react';
-import Nftinternship from '../public/assets/projects/nftinternship.png'
+import nftinternship from '../public/assets/projects/nftinternship.png'
 import netflixImg from '../public/assets/projects/netflixImg.png'
 import ProjectItem from './ProjectItem';
 import teslaclone from '../public/assets/projects/teslaclone.png'
@@ -19,7 +19,7 @@ const Projects = () => {
         
         <ProjectItem
             title='NFT - Marketplace'
-            backgroundImg={Nftinternship}
+            backgroundImg={nftinternship}
             projectUrl='/nftMarketplace'
             tech='Next JS'
 
