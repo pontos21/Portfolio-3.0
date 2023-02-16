@@ -22,7 +22,7 @@ function Main() {
         <div className='max-w-[1240px] w-full h-full mx-auto p-2 flex justify-center items-center'>
             <div>
                 <p className='uppercase text-sm tracking-widest text-gray-600'>
-                    LETS'S BUILD SOMETHING TOGETHER
+                    LET&apos;S BUILD SOMETHING TOGETHER
                 </p>
                 <motion.div
                 initial={{
@@ -46,7 +46,7 @@ function Main() {
                     <Cursor cursorColor='#F7AB0A' />
                 </h1>
                 <p className='py-4 text-gray-600 mx-w-[70$] m-auto'>
-                    I'm a <span className='text-[#5651e5] font-semibold'>Front-end Software Engineer</span> with a strong passion for building responsive and perfomative web applications with great user experiences that positively impacts the world. <br/>I am currently focused on building responsive front-end web applications. <br/> I live, breathe <span className='text-[#5651e5] font-semibold'>React.</span>
+                    I&apos;m a <span className='text-[#5651e5] font-semibold'>Front-end Software Engineer</span> with a strong passion for building responsive and perfomative web applications with great user experiences that positively impacts the world. <br/>I am currently focused on building responsive front-end web applications. <br/> I live, breathe <span className='text-[#5651e5] font-semibold'>React.</span>
                 </p>
                 </motion.div>
                 <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
@@ -54,7 +54,7 @@ function Main() {
                         <a href="https://www.linkedin.com/in/paul-serafim-9a0605255/" target='_blank'><FaLinkedinIn /></a>
                     </div>
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300  border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
-                        <a href="https://github.com/pontos21" target='_blank'><FaGithub /></a>
+                        <a target="_blank" rel="noreferrer" href="https://github.com/pontos21"><FaGithub /></a>
                     </div>
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300  border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
                         <a href="#contact"><AiOutlineMail /></a>
