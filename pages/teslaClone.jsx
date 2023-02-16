@@ -29,7 +29,7 @@ function internship() {
           <p className="mt-5">
             This app was built using React JS and takes inspiration from the offical Tesla website. This build demonstrates a range of flex-box layouts and styling components
           </p>
-          <button className='px-8 py-2 mt-4 mr-8'><a href="https://tesla-clone-six-swart.vercel.app/" target="_blank" rel="noreferrer">Demo</a></button>
+          <button className='px-8 py-2 mt-4 mr-8'><a href="https://tesla-clone-six-swart.vercel.app/" target="_blank" rel="noopener noreferrer">Demo</a></button>
           <button className='px-8 py-2 mt-4'><a href="https://github.com/pontos21/Tesla-Clone" target="_blank">Code</a></button>
         </div>
         <div className='col span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>

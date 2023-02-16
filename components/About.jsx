@@ -1,4 +1,5 @@
 import React from 'react'
+import Image from 'next/image';
 
 function About() {
   return (
@@ -19,7 +20,7 @@ function About() {
                 <p className='py-2 text-gray-600 underline cursor-pointer'><a href="#projects">Check out some of my latest projects</a></p>
             </div>
             <div className='w-full h-auto m-auto shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300'>
-                <img className='rounded-xl' src="https://i.ibb.co/g7d7m2d/future-goal.jpg" alt="" />
+                <Image className='rounded-xl' src="https://i.ibb.co/g7d7m2d/future-goal.jpg" alt="" />
             </div>
         </div>
     </div>
