@@ -51,7 +51,7 @@ function Main() {
                 </motion.div>
                 <div className='flex items-center justify-between max-w-[330px] m-auto py-4'>
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300 border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
-                        <a href="https://www.linkedin.com/in/paul-serafim-9a0605255/" target='_blank'><FaLinkedinIn /></a>
+                        <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/paul-serafim-9a0605255/"><FaLinkedinIn /></a>
                     </div>
                     <div className='rounded-full shadow-lg shadow-gray-400 p-6 cursor-pointer hover:scale-110 ease-in duration-300  border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
                         <a target="_blank" rel="noreferrer" href="https://github.com/pontos21"><FaGithub /></a>
