@@ -30,7 +30,7 @@ function nftMarketplace() {
             This app was built using React JS and takes inspiration from the evergrowing and emerging world of NFT collections & crypto. This build demonstrates a range of techniques including fetching data from an API, creation of prop based components, dynamically rending information and id and page/url routing.
           </p>
           <button className='px-8 py-2 mt-4 mr-8'><a target="_blank" rel="noreferrer" href="https://paul-serafim-internship.vercel.app/">Demo</a></button>
-          <button className='px-8 py-2 mt-4'><a href="https://github.com/pontos21/paul-serafim-internship" target="_blank">Code</a></button>
+          <button className='px-8 py-2 mt-4'><a target="_blank" rel="noreferrer" href="https://github.com/pontos21/paul-serafim-internship">Code</a></button>
         </div>
         <div className='col span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
           <div className='p-2'>
