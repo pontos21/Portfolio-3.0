@@ -1,5 +1,6 @@
 import React from 'react'
 import Image from 'next/image';
+import certificatecompletion from '../public/assets/skills/certificatecompletion.png'
 
 function Certificate() {
   return (
@@ -11,7 +12,7 @@ function Certificate() {
         <h2 className='py-4'>Certificate of Completion</h2>
         </div>
         <div className='w-full h-auto m-auto '>
-            <Image className='max-w-[900px] px-5 ml-[140px] shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300' src="https://i.ibb.co/nwdm1m8/certificate-of-completion.png" alt="" />
+            <Image className='max-w-[900px] px-5 ml-[140px] shadow-xl shadow-gray-400 rounded-xl flex items-center justify-center p-4 hover:scale-105 ease-in duration-300' src={certificatecompletion} alt="" />
         </div>
     </div>
   )

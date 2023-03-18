@@ -2,8 +2,17 @@
 const nextConfig = {
   reactStrictMode: true,
   swcMinify: true,
+  optimizeFonts: true,
+  basePath:'',
   images: {
-    domains: ['https://i.ibb.co/']
+    remotePatterns:[
+      {
+        protocol: 'https',
+        hostname: 'i.ibb.co',
+        hostname: "images.unsplash.com",
+      },
+    ],
+    minimumCacheTTL: 1500000, 
   },
 }
 
