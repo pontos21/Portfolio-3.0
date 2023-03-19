@@ -42,7 +42,6 @@ const Projects = () => {
             backgroundImg={AirbnbImg}
             projectUrl='/airbnb'
             tech='Next JS'
-
           />
         </div>
       </div>
