@@ -13,7 +13,8 @@ function About() {
                 I have had a longstanding interest in technology and computer systems. In 2021, I began utilizing HTML and CSS to make modifications to my initial blog, which sparked my interest in programming. 
                 </p>
                 <p className='py-2 text-gray-600'>
-                I became captivated by the complexity and potential of programming, leading me to further expand my knowledge by learning JavaScript. This further fueled my passion for creating interactive websites. Currently, I am dedicating my time to developing projects using React JS, Firebase, and exploring new technologies to enhance my skillset.
+                I became captivated by the complexity and potential of programming, leading me to further expand my knowledge by learning JavaScript. This further fueled my passion for creating interactive websites. Though I am most proficient in building front-end applications using HTML, CSS, Javascript, and React, I am a quick learner and can pick up new tech stacks as
+                needed. I believe that being a great developer is not using one specific language, but choosing the best tool for the job. Currently, I am dedicating my time to developing projects using React JS, Firebase, and exploring new technologies to enhance my skillset.
                 </p>
                 <p className='py-2 text-gray-600'>
                     During my off time, i belong to a Greek Pontian Dance Group where we learn and dance immersive war time dances in which we perform all over Melbourne and Australia for events and private functions. I also love my fitness and you will find me spending my free time in the gym.

@@ -1,9 +1,8 @@
-import Image from 'next/image';
-import Link from 'next/link';
+
 import React from 'react';
 import nftinternship from '../public/assets/projects/nftinternship.png'
 import netflixImg from '../public/assets/projects/netflixImg.png'
-import ProjectItem from './ProjectItem';
+import ProjectItem from './ProjectItem'
 import teslaclone from '../public/assets/projects/teslaclone.png'
 import AirbnbImg from '../public/assets/projects/AirbnbImg.png'
 

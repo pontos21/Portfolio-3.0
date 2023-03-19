@@ -67,7 +67,7 @@ const Navbar = () => {
             />
         </Link>
         <div>
-          <ul style={{ color: `${linkColor}` }} className='hidden md:flex'>
+          <ul style={{ color: `${linkColor}` }} className='md:flex'>
             <li className='ml-10 text-sm uppercase hover:border-b hover:scale-110 ease-in duration-300 border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
               <Link href='/'>Home</Link>
             </li>
@@ -175,7 +175,7 @@ const Navbar = () => {
               </p>
               <div className='flex items-center justify-between my-4 w-full sm:w-[80%]'>
                 <a
-                  href='https://www.linkedin.com/in/clint-briley-50056920a/'
+                  href='https://www.linkedin.com/in/paul-serafim-9a0605255/'
                   target='_blank'
                   rel='noreferrer'
                 >
@@ -184,7 +184,7 @@ const Navbar = () => {
                   </div>
                 </a>
                 <a
-                  href='https://github.com/fireclint'
+                  href='https://github.com/pontos21'
                   target='_blank'
                   rel='noreferrer'
                 >
