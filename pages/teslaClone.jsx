@@ -4,7 +4,7 @@ import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
 import teslaclone from '../public/assets/projects/teslaclone.png'
 
-function internship() {
+function teslaClone() {
   return (
     <div className='w-full'>
       <div className='w-screen h-[30vh] lg:h-[40vh] relative'>
@@ -56,4 +56,4 @@ function internship() {
   );
 }
 
-export default internship;
+export default teslaClone;
