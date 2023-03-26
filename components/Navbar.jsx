@@ -82,6 +82,7 @@ const Navbar = () => {
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b hover:scale-110 ease-in duration-300 border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
               <Link href='/resume'>Resume</Link>
+              <a href="https://docs.google.com/document/d/1JlOZfXhzAcvqEAJUaqHRrQN_ruXXl-tU/edit?usp=share_link&ouid=101553272091929529144&rtpof=true&sd=true" target="_blank" rel="noreferrer"></a>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b hover:scale-110 ease-in duration-300 border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
               <Link href='/#contact'>Contact</Link>
@@ -201,7 +202,7 @@ const Navbar = () => {
                   </div>
                 </Link>
                 <Link href='/resume'>
-                  <a target="_blank" rel="noreferrer" href="https://docs.google.com/document/d/1JlOZfXhzAcvqEAJUaqHRrQN_ruXXl-tU/edit?usp=share_link&ouid=101553272091929529144&rtpof=true&sd=true"></a>
+                <a href="https://docs.google.com/document/d/1JlOZfXhzAcvqEAJUaqHRrQN_ruXXl-tU/edit?usp=share_link&ouid=101553272091929529144&rtpof=true&sd=true" target="_blank" rel="noreferrer"></a>
                   <div
                     onClick={() => setNav(!nav)}
                     className='rounded-full shadow-lg shadow-gray-400 p-3 cursor-pointer hover:scale-105 ease-in duration-300'
