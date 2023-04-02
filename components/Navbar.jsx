@@ -81,10 +81,6 @@ const Navbar = () => {
               <Link href='/#projects'>Projects</Link>
             </li>
             <li className='ml-10 text-sm uppercase hover:border-b hover:scale-110 ease-in duration-300 border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
-              <Link href='/resume'>Resume</Link>
-              <a href="https://docs.google.com/document/d/1JlOZfXhzAcvqEAJUaqHRrQN_ruXXl-tU/edit?usp=share_link&ouid=101553272091929529144&rtpof=true&sd=true" target="_blank" rel="noreferrer"></a>
-            </li>
-            <li className='ml-10 text-sm uppercase hover:border-b hover:scale-110 ease-in duration-300 border-[#F7AB0A]/40 hover:text-[#F7AB0A]/40'>
               <Link href='/#contact'>Contact</Link>
             </li>
           </ul>
@@ -157,11 +153,6 @@ const Navbar = () => {
               <Link href='/#projects'>
                 <li onClick={() => setNav(false)} className='py-4 text-sm'>
                   Projects
-                </li>
-              </Link>
-              <Link href='/resume'>
-                <li onClick={() => setNav(false)} className='py-4 text-sm'>
-                  Resume
                 </li>
               </Link>
               <Link href='/#contact'>
