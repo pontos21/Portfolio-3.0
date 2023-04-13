@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
-import nft from '../public/assets/projects/Nft.png'
+import nft from '../public/assets/projects/nft.png'
 
 function nftMarketplace() {
   return (
