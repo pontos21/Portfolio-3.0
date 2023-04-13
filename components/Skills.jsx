@@ -3,7 +3,7 @@ import React from 'react';
 import Html from '../public/assets/skills/html.png';
 import Css from '../public/assets/skills/css.png';
 import javaScript from '../public/assets/skills/javaScript.png';
-import React1 from '../public/assets/skills/React.png';
+import React1 from '../public/assets/skills/React1.png';
 import Tailwind from '../public/assets/skills/tailwind.png';
 import Github from '../public/assets/skills/github.png';
 import Firebase from '../public/assets/skills/firebase.png';
