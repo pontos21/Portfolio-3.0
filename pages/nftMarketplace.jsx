@@ -2,7 +2,7 @@ import Image from "next/image";
 import React from "react";
 import { RiRadioButtonFill } from "react-icons/ri";
 import Link from "next/link";
-import nftinternship from '../public/assets/projects/nftinternship.png'
+import Nftinternship from '../public/assets/projects/Nftinternship.png'
 
 function nftMarketplace() {
   return (
@@ -13,7 +13,7 @@ function nftMarketplace() {
           className='absolute z-1'
           layout='fill'
           objectFit='cover'
-          src={nftinternship}
+          src={Nftinternship}
           alt='/'
         />
         <div className='absolute top-[70%] max-w-[1240px] w-full left-[50%] right-[50%] translate-x-[-50%] translate-y-[-50%] text-white z-10 p-2 '>
