@@ -40,7 +40,7 @@ function Main() {
                     Hey, Im <span className='text-[#5651e5]'>Paul 👋</span> 
                 </h1>
                 <div className='animation'>
-                    <Image className='rounded-full h-32 w-32 mx-auto object-cover transform:scale(0)' src={sunmerdrink1} alt="" />
+                    <Image className='rounded-full h-40 w-40 mx-auto object-cover transform:scale(0)' src={sunmerdrink1} alt="" />
                 </div>
                 <h1 className='text-5xl lg:text-6xl font-semibold px-10'>
                     <span className='mr-3'>{text}</span>
