@@ -30,7 +30,7 @@ function airbnb() {
           <p className='mt-5'>
           This app was built using React JS & Typescript and takes inspiration from the offical Airbnb website. This build demonstrates a range of flex-box layouts and styling components. This Airbnb clone utilizes a fully functional calender and search options which are customizable that also reflects your choice of stay.
           </p>
-          <button className='px-8 py-2 mt-4 mr-8'><a target="_blank" rel="noreferrer" href="airbnb-clone-pontos21.vercel.app">Demo</a></button>
+          <button className='px-8 py-2 mt-4 mr-8'><a target="_blank" rel="noreferrer" href="airbnb-clone-git-main-pontos21.vercel.app">Demo</a></button>
           <button className='px-8 py-2 mt-4'><a target="_blank" rel="noreferrer" href="https://github.com/pontos21/Airbnb-Clone">Code</a></button>
         </div>
         <div className='col span-4 md:col-span-1 shadow-xl shadow-gray-400 rounded-xl p-4'>
